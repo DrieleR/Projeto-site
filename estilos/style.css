@@ -8,6 +8,14 @@ body {
     color: #FFF;
 }
 
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
 main {
     background-color: rgb(0, 0, 0);
     width: 500px;
@@ -24,7 +32,7 @@ img.lade {
 .artigo {
     display: block;
     background: rgb(0, 0, 0);
-    color: #FFF;
+    color: #777777;
     margin: 10px;
     padding: 10px;
     border: 1px solid #000;
@@ -32,7 +40,7 @@ img.lade {
 }
 
 ol {
-    background-color: aliceblue;
+    background-color: #777777;
     border-radius: 10px;
     width: 400px;
     margin: auto;
@@ -41,7 +49,7 @@ ol {
 }
 
 ul {
-    background-color: rgb(209, 233, 254);
+    background-color: #777777;
     border-radius: 20px;
     padding: 20px 20px 20px;
     color:#000;
